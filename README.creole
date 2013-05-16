@@ -1,0 +1,6 @@
+= ngircd control =
+
+ngircd is a very nice IRC daemon that I use for all sorts of EmacsLisp
+projects. This let's you spin up IRC daemons quite easily which is
+useful for testing.
+
